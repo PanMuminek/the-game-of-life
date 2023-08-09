@@ -7,8 +7,10 @@ simple python implementation of [the game of life](https://en.wikipedia.org/wiki
 ## running
 
 ### linux/mac
-> cd the-game-of-life <br>
-> python3 view.py
+```
+$ cd the-game-of-life 
+$ python3 view.py
+ ```
 
 ### windows
-> i'm sorry
+> i'm sorry for you
