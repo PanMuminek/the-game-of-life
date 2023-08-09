@@ -7,7 +7,7 @@ simple python implementation of [the game of life](https://en.wikipedia.org/wiki
 ## running
 
 ### linux/mac
-> cd the-game-of-life
+> cd the-game-of-life \n
 > python3 view.py
 
 ### windows
