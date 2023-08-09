@@ -3,14 +3,13 @@ simple python implementation of [the game of life](https://en.wikipedia.org/wiki
 
 ## installation
 ```
-$ git clone https://github.com/PanMuminek/the-game-of-life.git
+git clone https://github.com/PanMuminek/the-game-of-life.git
 ```
 ## running
 
 ### linux/mac
 ```
-$ cd the-game-of-life 
-$ python3 view.py
+cd the-game-of-life && python3 view.py
  ```
 
 ### windows
