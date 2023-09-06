@@ -3,7 +3,7 @@ simple python implementation of [the game of life](https://en.wikipedia.org/wiki
 
 ## installation
 ```
-git clone https://github.com/PanMuminek/the-game-of-life.git
+git clone https://github.com/me-th/the-game-of-life
 ```
 ## running
 
