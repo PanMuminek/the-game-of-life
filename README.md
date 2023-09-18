@@ -13,7 +13,7 @@ cd the-game-of-life && python3 view.py
  ```
 
 ### windows
-> i'm sorry for you
+![building under windows not supported :(](https://cdn.discordapp.com/attachments/994589107646902343/1153399108665626724/build-under-win.gif)
 
 ## usage
 Click Start button to run the simulation. <br>
